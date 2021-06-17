@@ -1,0 +1,22 @@
+{
+	"embed": {
+		"external_user_id": 999,
+		"first_name": "Embed Masa",
+		"last_name": "Embed Looker",
+		"permissions": ["see_lookml_dashboards", "access_data", "see_looks", "see_user_dashboards", "embed_browse_spaces", "save_content", "explore"],
+		"models": ["thelook"],
+		"external_group_id": "embed_group_test",
+		"embed_dashboard_id": 6,
+		"embed_target_url": "127.0.0.1:9999"
+	},
+	"embed_formatted": {
+		"external_user_id": 999,
+		"first_name": "Embed Masa",
+		"last_name": "Embed Looker",
+		"permissions": ["see_lookml_dashboards", "access_data", "see_looks", "see_user_dashboards", "embed_browse_spaces", "save_content", "explore"],
+		"models": ["thelook"],
+		"external_group_id": "embed_group_test",
+		"embed_dashboard_id": 6,
+		"embed_target_url": "127.0.0.1:9999"
+	}
+}
